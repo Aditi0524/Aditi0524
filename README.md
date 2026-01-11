@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditi0524
 - 👀 I’m interested in exploring new things
-- 🌱 Pursued BSc. I.T.
-- 💞️ I’m looking to collaborate on 
+- 🌱 Pursuing MSc Data Science & Artificial Intelligence
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me asrastogi24@gmail.com
 
 <!---
